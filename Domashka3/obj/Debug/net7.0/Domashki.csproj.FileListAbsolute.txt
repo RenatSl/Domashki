@@ -1,0 +1,15 @@
+/Users/renat/Desktop/Учеба/Domashki/bin/Debug/net7.0/Domashki
+/Users/renat/Desktop/Учеба/Domashki/bin/Debug/net7.0/Domashki.deps.json
+/Users/renat/Desktop/Учеба/Domashki/bin/Debug/net7.0/Domashki.runtimeconfig.json
+/Users/renat/Desktop/Учеба/Domashki/bin/Debug/net7.0/Domashki.dll
+/Users/renat/Desktop/Учеба/Domashki/bin/Debug/net7.0/Domashki.pdb
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.AssemblyInfo.cs
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.dll
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/refint/Domashki.dll
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.pdb
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/Domashki.genruntimeconfig.cache
+/Users/renat/Desktop/Учеба/Domashki/obj/Debug/net7.0/ref/Domashki.dll

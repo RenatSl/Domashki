@@ -1,0 +1,15 @@
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/bin/Debug/net7.0/Domashka2
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/bin/Debug/net7.0/Domashka2.deps.json
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/bin/Debug/net7.0/Domashka2.runtimeconfig.json
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/bin/Debug/net7.0/Domashka2.dll
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/bin/Debug/net7.0/Domashka2.pdb
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.csproj.AssemblyReference.cache
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.AssemblyInfoInputs.cache
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.AssemblyInfo.cs
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.csproj.CoreCompileInputs.cache
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.dll
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/refint/Domashka2.dll
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.pdb
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/Domashka2.genruntimeconfig.cache
+/Users/renat/Desktop/Учеба/Ceminar3/Domashka2/obj/Debug/net7.0/ref/Domashka2.dll
